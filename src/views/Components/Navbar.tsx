@@ -20,7 +20,7 @@ export default function Navbar() {
                 // onClick={handleCloseNavMenu}
                 sx={{ my: 2, color: "white", display: "block" }}
               >
-                {page}
+                {page}...
               </Button>
             ))}
           </Box>
